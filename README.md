@@ -1,9 +1,8 @@
 # Learning-Day-2
 
 
-1. Sliding window Technique
+1. ✅ Sliding window Technique
    - https://www.youtube.com/watch?v=dOonV4byDEg
-   - https://www.youtube.com/watch?v=y2d0VHdvfdc
 
 2. DSA problems -
    - https://leetcode.com/problems/maximum-average-subarray-i/description/
