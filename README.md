@@ -4,7 +4,7 @@
 1. ✅ Sliding window Technique
    - https://www.youtube.com/watch?v=dOonV4byDEg
 
-2. DSA problems -
+2. ✅ DSA problems -
    - https://leetcode.com/problems/maximum-average-subarray-i/description/
    - https://leetcode.com/problems/max-consecutive-ones-iii/description/
 
