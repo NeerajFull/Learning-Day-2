@@ -8,7 +8,7 @@
    - https://leetcode.com/problems/maximum-average-subarray-i/description/
    - https://leetcode.com/problems/max-consecutive-ones-iii/description/
 
-3. JavaScript Videos
+3. ✅ JavaScript Videos
    - https://www.youtube.com/watch?v=sZjlEKbaykc&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=6&t=2154s
    - https://www.youtube.com/watch?v=k5TC9i5HonI&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=7&t=1190s
 
